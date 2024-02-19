@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="flatlaf-3.2.5">
+    <archive path="C:/com.java.dependencies/flatlaf-3.2.5.jar" />
+    <archive path="C:/com.java.dependencies/flatlaf-fonts-roboto-2.137.jar" />
+    <archive path="C:/com.java.dependencies/mysql-connector-j-8.2.0.jar" />
+    <archive path="C:/com.java.dependencies/swing-toast-notifications-1.0.1.jar" />
+  </library>
+  <library name="miglayout-core-11.2-sources">
+    <archive path="C:/com.java.dependencies/migLayout/miglayout-core-11.2.jar" />
+    <archive path="C:/com.java.dependencies/migLayout/miglayout-swing-11.2.jar" />
+  </library>
+</eclipse-userlibraries>
+
